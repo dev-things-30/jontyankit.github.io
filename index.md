@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-# [](#header-1)100,000+ Installs
-
-:100:% Ad free application
+# [](#header-1)100,000+ Installs , 1,000+ Rating 
 
 1.  APK Extractor Lite - The lightest apk extractor app on play store. It takes only 32 KB of your phone space. Ain’t that awesome??
 
